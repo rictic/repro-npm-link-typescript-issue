@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "pretty": true,
+        "noEmit": true
+    },
+    "files": [
+        "index.ts"
+    ]
+}
